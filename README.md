@@ -7,6 +7,11 @@ Name: Arqam
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/toqeer-yasir/toqeer-yasir/output/github-snake.svg" />
+</picture>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=arqam699&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
