@@ -1,5 +1,6 @@
 # 💫 About Me:
 Name: Muhammad Arqam
+Student Of BSCS
 
 ### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mr_arqam485?igsh=eWhrM2R2bm83cndo)
